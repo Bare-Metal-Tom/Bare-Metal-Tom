@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to Tom's GitHub Profile!
 
-<!--
-**Bare-Metal-Tom/Bare-Metal-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a network engineer with diverse interests, including PenTesting, Python, PowerShell, and Home Labs.
+- Recently, I've gotten into **Meshtastic** (off-the-grid, decentralized, LoRa mesh-network, radio communication).
+  - [Learn more about Meshtastic](https://meshtastic.org/)
+- I'm here to learn, share, and collaborate with others in the tech community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Pronouns**: he/him
+- **Favorite James Bond Movie**: Casino Royale (2006)
+- Always striving to be productive yet insanely chill.
+- All code is crafted with love and well-commented for clarity!
