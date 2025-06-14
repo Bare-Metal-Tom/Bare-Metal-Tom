@@ -9,5 +9,3 @@
 
 - **Pronouns**: he/him
 - **Favorite James Bond Movie**: Casino Royale (2006)
-- Always striving to be productive yet insanely chill.
-- All code is crafted with love and well-commented for clarity!
